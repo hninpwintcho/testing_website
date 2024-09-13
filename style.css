@@ -1,0 +1,20 @@
+body {
+    background-color: white;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.version-message {
+    color: black;
+    font-size: 24px;
+    font-weight: normal;
+}
+
+.big-word {
+    font-size: 48px;
+    font-weight: bold;
+}
